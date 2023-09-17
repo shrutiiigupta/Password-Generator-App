@@ -20,7 +20,7 @@ To run this app locally, follow these steps:
 1. **Clone the Repository**: Clone this repository to your local machine.
 
    ```
-   git clone https://github.com/your-username/password-generator-app.git
+   git clone https://github.com/shrutiiigupta/Password-Generator-App.git
    ```
 
 2. **Navigate to the Project Directory**: Use the `cd` command to go into the project directory.
